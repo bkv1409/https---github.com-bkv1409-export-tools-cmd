@@ -1,0 +1,18 @@
+#file convert from unicode file
+# native2ascii -encoding UTF-8 gui_vn.properties gui.properties
+header.label=PH\u1ea6N M\u1ec0M QU\u1ea2N L\u00dd TH\u00d4NG TIN H\u00c0NH KH\u00c1CH TR\u01af\u1edaC CHUY\u1ebeN BAY API
+version.label=Phi\u00ean b\u1ea3n: 1.0
+source.text.label=\u0110\u01b0\u1eddng d\u1eabn file ho\u1eb7c th\u01b0 m\u1ee5c ngu\u1ed3n
+source.button.label=Ch\u1ecdn File Ngu\u1ed3n
+source.button.tooltips=B\u1ea5m v\u00e0o \u0111\u1ec3 ch\u1ecdn \u0111\u01b0\u1eddng d\u1eabn \u0111\u1ebfn file hay th\u01b0 m\u1ee5c ngu\u1ed3n
+dest.text.label=\u0110\u01b0\u1eddng d\u1eabn th\u01b0 m\u1ee5c \u0111\u00edch
+dest.button.label=Ch\u1ecdn th\u01b0 m\u1ee5c \u0111\u00edch
+dest.button.tooltips=B\u1ea5m v\u00e0o \u0111\u1ec3 ch\u1ecdn \u0111\u01b0\u1eddng d\u1eabn \u0111\u1ebfn th\u01b0 m\u1ee5c \u0111\u00edch
+convert.button.label=Chuy\u1ec3n \u0111\u1ed5i
+convert.button.tooltips=B\u1ea5m v\u00e0o \u0111\u1ec3 chuy\u1ec3n \u0111\u1ed3i file ngu\u1ed3n sang XLSX
+clear.button.label=X\u00f3a l\u1ecbch s\u1eed
+clear.button.tooltips=B\u1ea5m v\u00e0o \u0111\u1ec3 x\u00f3a l\u1ecbch s\u1eed th\u1ef1c hi\u1ec7n b\u00ean d\u01b0\u1edbi
+open.button.label=M\u1edf th\u01b0 m\u1ee5c \u0111\u00edch
+open.button.tooltips=B\u1ea5m v\u00e0o \u0111\u1ec3 m\u1edf th\u01b0 m\u1ee5c \u0111\u00edch
+log.button.label=L\u1ecbch s\u1eed chuy\u1ec3n \u0111\u1ed5i
+	
